@@ -33,6 +33,10 @@ Linguist Steven Pinker takes an analytical approach to writing in this style gui
 ### ['Technical Blogging'](https://www.amazon.com/Technical-Blogging-Expertise-Remarkable-Presence/dp/1934356883/ref=sr_1_2?dchild=1&keywords=%27Technical+Blogging%27+by+Antonio+Cangiano&qid=1627156220&s=books&sr=1-2) by Antonio Cangiano
 This book is, as you may have guessed from the title, specific to technical blogging. "Successful people often get recognition by teaching what they know. Blogging is a reliable path to do that, while gaining influence in the process." Unlike most of the others here, it doesn't focus as much on writing well, but more about how to set up a technical blog, how to promote it and how to find time to write.
 
+### ['Software Technical Writing: A Guidebook'](https://jamesg.blog/book.pdf) by James Gallagher
+
+A free e-book that covers the role of a technical writer, practical guidance for writing technical documents, and working with the rest of your team as a technical writer.
+
 ## Articles
 
 ### ['Writing well']((https://www.julian.com/guide/write/intro)) by Julian Shapiro
@@ -54,6 +58,10 @@ A crowd-sourced list of axioms and rules of writing, along with descriptions, th
 ## Blogs
 ### [I'd Rather Be Writing](https://idratherbewriting.com/)
 A blog written by professional tech writer Tom Johnson on numerous topics including technical communication, processes for managing docs, and information usability. Most well-known for its popular [API documentation course](https://idratherbewriting.com/learnapidoc/).
+
+## Websites
+### [indoition](https://www.indoition.com)
+Website run by technical writer Marc Achtelig since 2004. Most well-known for its popular [Technical Documentation Tool and Web Guide](https://www.indoition.com/tools-websites-technical-documentation.htm), which lists hundreds of tools useful for technical writing, for its collection of free [AutoHotkey scripts for technical wrters](https://www.indoition.com/en/products/autohotkey-scripts-for-technical-documentation.htm), and for its various [code snippets for improving online documentation](https://www.indoition.com/en/products/code-snippets-for-online-documentation.htm).
 
 ## Videos
 
